@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946464443279",
+    "project_id": "platziblog-bc8f5",
+    "storage_bucket": "platziblog-bc8f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946464443279:android:ee23e9bdb1b6cfc01899fa",
+        "android_client_info": {
+          "package_name": "tienda.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946464443279-bbc434c4ivb2bececsi992rfl22n72b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDclO-uiYF1n511mO2yHdIszH0LZ6dVRro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946464443279-bbc434c4ivb2bececsi992rfl22n72b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
